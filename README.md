@@ -1,2 +1,2 @@
 # lpic-1-curso
-Material para el curso LPIC-1
+Archivos y scripts para el curso LPIC-1
